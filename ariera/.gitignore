@@ -1,0 +1,9 @@
+.idea
+CMakeLists.txt
+*.pro.user
+*.o
+testquery
+.DS_Store
+build-treeproject-Desktop_Qt_5_5_0_clang_64bit-Debug
+build-treeproject-Desktop_Qt_5_4_2_MinGW_32bit2-Debug
+.*.swp
