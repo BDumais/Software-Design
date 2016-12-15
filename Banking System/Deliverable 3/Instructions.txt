@@ -1,0 +1,3 @@
+Project was built in Visual Community 2015 on Win 10 machine. Compiled and built with Visual Studio 2015.
+
+No system configuration parameters.
